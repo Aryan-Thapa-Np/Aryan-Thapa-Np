@@ -45,7 +45,7 @@ I enjoy experimenting with new technologies, contributing to projects, and creat
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/></a>
   &nbsp;
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="45" height="45"/></a>
+    <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="Express.js" width="45" height="45"/></a>
   &nbsp;
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/></a>
