@@ -74,8 +74,7 @@ I enjoy experimenting with new technologies, contributing to projects, and creat
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/></a>
   &nbsp;
-  <a href="https://www.electronjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="45" height="45"/></a>
+  
 </p>
 
 
