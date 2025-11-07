@@ -74,6 +74,15 @@ I enjoy experimenting with new technologies, contributing to projects, and creat
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/></a>
   &nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
+    alt="Tailwind CSS" 
+    width="45" 
+    height="45"
+  />
+</a>
+  &nbsp;
   
 </p>
 
