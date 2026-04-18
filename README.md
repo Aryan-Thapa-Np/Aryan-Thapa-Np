@@ -1,99 +1,91 @@
-<h1 align="center">Hi 👋, I'm Aryan Thapa</h1>
-<h3 align="center">🚀 Full-Stack Developer | 💡 Innovator | 🌏 From Nepal</h3>
+<h1 align="center">Hey there, I'm Aryan Thapa 👋</h1>
 
----
-
-### 👨‍💻 About Me
-I'm a passionate Full-Stack Developer focusing on building scalable web applications and backend systems.  
-I enjoy experimenting with new technologies, contributing to projects, and creating innovative solutions.
-
-- 🔭 Currently working on **E-commerce Platforms & Full-Stack Projects**  
-- 🌱 Learning **React, system automation, and Cloud Technologies**  
-- 💡 Passionate about **web apps, AI-based projects, and system automation**  
-- 📫 Reach me at **aryanthapa583@gmail.com**  
- 
-
----
-
-### 🌐 Connect with Me
 <p align="center">
-<a href="https://instagram.com/aryanthapa224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="mailto:aryanthapa583@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="simplified learner" height="30" width="35" /></a>
-</p>
-
-
-
----
-### 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="Express.js" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/></a>
-  &nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
-    alt="Tailwind CSS" 
-    width="45" 
-    height="45"
-  />
-</a>
-  &nbsp;
-  
-</p>
-
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-thapa-np&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <b>Full-Stack Developer &nbsp;·&nbsp; Problem Solver &nbsp;·&nbsp; Nepal 🇳🇵</b>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-thapa-np&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  I build fast, clean, and reliable web applications — from the UI to the server to the database.
+</p>
+
+<p align="center">
+  <a href="mailto:aryanthapa583@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-aryanthapa583%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/aryanthapa224">
+    <img src="https://img.shields.io/badge/Instagram-aryanthapa224-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+- 🔭 &nbsp; I work on **full-stack web apps, REST APIs, and automation tools**
+- 🌱 &nbsp; Always learning — currently exploring **AI integration and system design**
+- 🛠️ &nbsp; I enjoy turning complex problems into simple, clean solutions
+- 📫 &nbsp; Best way to reach me: **aryanthapa583@gmail.com**
+
+---
+
+## Tech Stack
+
+### Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" title="React" />
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS" />
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" title="Figma" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" title="Node.js" />
+  &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="Express.js" width="40" height="40" title="Express.js" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" title="MongoDB" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="MySQL" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" title="Redis" />
+</p>
+
+### Languages & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker" />
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" title="Postman" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-thapa-np&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-thapa-np&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to collaborations, freelance work, and interesting projects. Feel free to reach out!</i>
 </p>
