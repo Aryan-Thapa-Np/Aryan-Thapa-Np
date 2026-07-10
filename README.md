@@ -1,130 +1,81 @@
-# Hey there! I'm Aryan Thapa 👋
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer+(React+Native);AI+Integration+%26+System+Design;Nepal" alt="Typing SVG" />
-</p>
+<div align="center">
 
----
+# Aryan Thapa
 
-### 💫 About Me
-I'm a passionate full-stack developer based in Nepal. I specialize in building highly responsive web applications and cross-platform mobile apps, with a focus on modern user experiences and robust architectures. Currently, I am expanding my skills in **AI integration** and **advanced system design** to build more intelligent and scalable software.
+**Full-Stack Developer · Mobile App Developer (React Native) · AI Integration & System Design**
 
-- 🌐 **Portfolio & Projects:** Explore my work at [aryanthapa1.com.np](https://aryanthapa1.com.np)
-- ✉️ **Get in Touch:** Reach me directly via [aryanthapa583@gmail.com](mailto:aryanthapa583@gmail.com)
-- 🚀 **Current Focus:** AI-driven applications, system design, and performant mobile experiences.
+📍 Nepal &nbsp;|&nbsp; 🌐 [aryanthapa1.com.np](https://aryanthapa1.com.np) &nbsp;|&nbsp; ✉️ [aryanthapa583@gmail.com](mailto:aryanthapa583@gmail.com)
 
----
+</div>
 
-### 🛠️ Languages & Tools
+<br>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-      <br />TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
-      <br />React
-    </td>
-    <td align="center" width="96">
-      <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native" />
-      <br />React Native
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
-      <br />Redux
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind" />
-      <br />TailwindCSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS" />
-      <br />NodeJS
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
-      <br />Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-      <br />Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" height="40" alt="Electron" />
-      <br />Electron
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
-      <br />Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
-      <br />MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-      <br />MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis" />
-      <br />Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
-      <br />Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
-      <br />Postman
-    </td>
-  </tr>
-</table>
+## About
 
----
+I'm a full-stack developer building responsive web applications and cross-platform mobile apps, with a focus on clean architecture and strong user experience. I'm currently deepening my expertise in **AI integration** and **advanced system design** to build smarter, more scalable software.
 
-### 📊 GitHub Stats & Performance
+- 🔭 Currently focused on AI-driven applications, system design, and performant mobile experiences
+- 🌱 Actively learning advanced backend architecture and AI/LLM integration patterns
+- 💬 Happy to talk about React, React Native, or system design — reach out any time
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-thapa-np&theme=tokyonight&hide_border=true" alt="Aryan's Streak Stats" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-thapa-np&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aryan's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-thapa-np&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+## Tech Stack
 
----
+**Languages**
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### 🤝 Connect with me
+**Frontend**
+<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<p align="left">
-  <a href="https://instagram.com/aryanthapa224" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="mailto:aryanthapa583@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://aryanthapa1.com.np" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
-  </a>
-</p>
+**Backend**
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Databases**
+<br>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Tools & Platforms**
+<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aryan-thapa-np&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aryan's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-thapa-np&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-thapa-np&theme=tokyonight&hide_border=true" alt="Aryan's Streak Stats" />
+
+</div>
+
+<br>
+
+## Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryanthapa224)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanthapa583@gmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://aryanthapa1.com.np)
+
+</div>
