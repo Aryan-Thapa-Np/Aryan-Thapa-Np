@@ -18,7 +18,7 @@ Building scalable web applications, modern user experiences, and AI-powered solu
 
 - 💻 Full-Stack Developer specializing in **JavaScript**, **TypeScript**, and **Python**
 - 🚀 Passionate about building scalable web applications and clean system architecture
-- 🤖 Currently exploring **AI Integration**, **LLMs**, **Automation**, and **System Design**
+- 🤖 Currently exploring **AI Integration**, **Automation**, and **System Design**
 - 🌱 Always learning modern technologies and development best practices
 - 📁 Explore all my projects on **https://aryanthapa1.com.np**
 - 📫 Reach me at **aryanthapa583@gmail.com**
@@ -71,7 +71,6 @@ Building scalable web applications, modern user experiences, and AI-powered solu
 # 🚀 Currently Learning
 
 - 🤖 AI Integration
-- 🧠 Large Language Models (LLMs)
 - ⚡ System Design
 - 🏗️ Scalable Backend Architecture
 - ☁️ Cloud & DevOps
