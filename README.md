@@ -16,7 +16,7 @@ Building scalable web applications, modern user experiences, and AI-powered solu
 
 ## 👨‍💻 About Me
 
-- 💻 Full-Stack Developer specializing in **JavaScript**, **TypeScript**, and **Python**
+- 💻 Full-Stack Developer building modern web applications.
 - 🚀 Passionate about building scalable web applications and clean system architecture
 - 🤖 Currently exploring **AI Integration**, **Automation**, and **System Design**
 - 🌱 Always learning modern technologies and development best practices
